@@ -1,0 +1,10 @@
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\bin\Debug\Ödev 1 için Deneme.exe.config
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\bin\Debug\Ödev 1 için Deneme.exe
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\bin\Debug\Ödev 1 için Deneme.pdb
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\obj\Debug\Ödev 1 için Deneme.csproj.AssemblyReference.cache
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\obj\Debug\Ödev_1_için_Deneme.Form1.resources
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\obj\Debug\Ödev_1_için_Deneme.Properties.Resources.resources
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\obj\Debug\Ödev 1 için Deneme.csproj.GenerateResource.cache
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\obj\Debug\Ödev 1 için Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\obj\Debug\Ödev 1 için Deneme.exe
+C:\Users\Zeynep Yener\source\repos\Ödev 1 için Deneme\Ödev 1 için Deneme\obj\Debug\Ödev 1 için Deneme.pdb
